@@ -193,4 +193,8 @@ set(config_module_list
 
 	# Hardware test
 	#examples/hwtest
+
+	# custom Code
+	examples/custom
+
 )

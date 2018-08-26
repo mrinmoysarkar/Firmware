@@ -172,6 +172,9 @@ set(config_module_list
 
 	# Hardware test
 	#examples/hwtest
+
+	# custom Code
+	examples/custom
 )
 
 # Default config_sitl_rcS_dir (posix_sitl_default), this is overwritten later

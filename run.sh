@@ -1,0 +1,1 @@
+python ./Tools/mavlink_shell.py /dev/tty.usbmodem1 
